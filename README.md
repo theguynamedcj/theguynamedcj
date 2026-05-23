@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am CJ and I am a beginner larper
+# I am CJ and I am a beginner larper
 
 ## Languages I know
 
