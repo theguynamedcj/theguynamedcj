@@ -11,5 +11,5 @@
 ![Go](https://skillicons.dev/icons?i=go) ![JavaScript](https://skillicons.dev/icons?i=js) ![Rust](https://skillicons.dev/icons?i=rust) ![Docker](https://skillicons.dev/icons?i=docker) ![Blender](https://skillicons.dev/icons?i=blender)
 
 
-## Cachyos niri btw
+## Cachyos btw
 ![CachyOS](https://img.shields.io/badge/CachyOS-0078D4?style=for-the-badge&logoColor=white) ![Niri](https://img.shields.io/badge/Niri-7B2CBF?style=for-the-badge&logoColor=white) ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white) ![MangoWC](https://img.shields.io/badge/MangoWC-FF6B35?style=for-the-badge&logoColor=white) 
