@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ![ ](https://komarev.com/ghpvc/?username=theguynamedcj)
 
 #### I am CJ and I am a beginner larper
 
