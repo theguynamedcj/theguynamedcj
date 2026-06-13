@@ -12,4 +12,4 @@
 
 
 ## Cachyos btw[
-![[CachyOS]](https://cachyos.org)(https://img.shields.io/badge/CachyOS-0078D4?style=for-the-badge&logoColor=white)] ![Niri](https://img.shields.io/badge/Niri-7B2CBF?style=for-the-badge&logoColor=white) ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white) ![MangoWC](https://img.shields.io/badge/MangoWC-FF6B35?style=for-the-badge&logoColor=white) 
+![[CachyOS](https://img.shields.io/badge/CachyOS-0078D4?style=for-the-badge&logoColor=white)] ![Niri](https://img.shields.io/badge/Niri-7B2CBF?style=for-the-badge&logoColor=white) ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white) ![MangoWC](https://img.shields.io/badge/MangoWC-FF6B35?style=for-the-badge&logoColor=white) 
